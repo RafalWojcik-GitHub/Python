@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ytisf/theZoo.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ytisf/theZoo/stargazers/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-![Logo](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
+![Logo](https://github.com/systemisdown/Python/MalDB-Logo-Thumb.png)
 
 theZoo is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
 theZoo was born by Yuval tisf Nativ and is now maintained by Shahak Shalev.
