@@ -41,7 +41,7 @@ Repozytorium zawiera:
 
 
 <p>
-&nbsp;&nbsp;:small_orange_diamond:[2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)    
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/Projekty/"><b>Projekty</b></a> - is a general-purpose command-line fuzzy finder.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/Projekty/"><b>Projekty</b></a> - is a general-purpose command-line fuzzy finder.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br>
