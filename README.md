@@ -21,9 +21,9 @@ theZoo's purpose is to allow the study of malware and enable people who are inte
 
 We recommend running them in a VM which has no internet connection (or an internal virtual network if you must) and without guest additions or any equivalents. Some of them are worms and will automatically try to spread out. Running them unconstrained means that you **will infect yourself or others with vicious and dangerous malware!!!**
 
-## Getting Started
+## Pobranie Repozytorium
 
-Clone the repository with `git clone https://www.github.com/systemisdown/Python`. Go to the directory and run `pip install --user -r requirements.txt`. This should install all latest requirements needed. In total can be "scripted" like so:
+Clone the repository with `git clone https://www.github.com/systemisdown/Python`. Go to the directory and run `pip install --user -r requirements.txt`. This should install all latest requirements needed:
 
 ```bash
 git clone https://www.github.com/systemisdown/Python
