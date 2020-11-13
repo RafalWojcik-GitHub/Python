@@ -1,5 +1,6 @@
 # Rafał Repozytorium GitHub
 
+![](https://img.shields.io/badge/Autor-Rafał-blue)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/systemisdown/Python/issues)
 [![HitCount](http://hits.dwyl.com/systemisdown/Python.svg)](http://hits.dwyl.com/systemisdown/Python)
 [![GitHub stars](https://img.shields.io/github/stars/systemisdown/Python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/systemisdown/Python/stargazers)
