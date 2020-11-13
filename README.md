@@ -1,4 +1,4 @@
-# Repozytorium GitHub
+# Rafał Repozytorium GitHub
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/systemisdown/Python/issues)
 [![HitCount](http://hits.dwyl.com/systemisdown/Python.svg)](http://hits.dwyl.com/systemisdown/Python)
