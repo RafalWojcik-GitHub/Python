@@ -4,7 +4,7 @@
 [![HitCount](http://hits.dwyl.com/systemisdown/Python.svg)](http://hits.dwyl.com/systemisdown/Python)
 [![GitHub stars](https://img.shields.io/github/stars/systemisdown/Python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/systemisdown/Python/stargazers)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
+![](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
 
 ![Logo](https://github.com/systemisdown/Python/blob/main/logo2.png)
