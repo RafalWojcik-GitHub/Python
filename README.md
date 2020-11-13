@@ -4,6 +4,7 @@
 [![HitCount](http://hits.dwyl.com/systemisdown/Python.svg)](http://hits.dwyl.com/systemisdown/Python)
 [![GitHub stars](https://img.shields.io/github/stars/systemisdown/Python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/systemisdown/Python/stargazers)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![HitCount](http://hits.dwyl.com/systemisdown/Python.svg)](http://hits.dwyl.com/systemisdown/Python)
 
 
 ![Logo](https://github.com/systemisdown/Python/blob/main/logo2.png)
