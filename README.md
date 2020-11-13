@@ -5,7 +5,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/systemisdown/Python.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/systemisdown/Python/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-![Logo](https://github.com/systemisdown/Python/blob/main/MalDB-Logo-Thumb.png)
+
+![Logo](https://github.com/systemisdown/Python/blob/main/logo2.png)
+![Logo](https://github.com/systemisdown/Python/blob/main/logo1.png)
 
 Repozytorium plików Python.
 
