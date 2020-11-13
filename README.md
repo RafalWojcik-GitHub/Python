@@ -40,6 +40,14 @@ Repozytorium zawiera:
 `/Testowe` -  Pliki testowe.  
 
 
+<p>
+&nbsp;&nbsp;:small_red_diamond: <a href="https://github.com/rupa/z"><b>z</b></a> - tracks the folder you use the most and allow you to jump, without having to type the whole path.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/junegunn/fzf"><b>fzf</b></a> - is a general-purpose command-line fuzzy finder.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
+</p>
+
 
 
 ## Zmiany w wersjach programów:
