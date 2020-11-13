@@ -35,6 +35,7 @@ Repozytorium zawiera:
 `/Testowe` -  Pliki testowe.  
 
 
+
 ### Zmiany w wersjach programów:
 ### Wersja v1.0:
 - [x] abc
