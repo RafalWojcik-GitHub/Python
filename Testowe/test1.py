@@ -1,4 +1,4 @@
-import sys # przekazanie argumentow
+import sys
 
 try:
     if len(sys.argv) > 2 and sys.argv[1] == 'dodaj':
