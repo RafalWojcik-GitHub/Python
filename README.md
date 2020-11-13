@@ -2,6 +2,7 @@
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/ytisf/theZoo/issues)
 [![HitCount](http://hits.dwyl.com/ytisf/theZoo.svg)](http://hits.dwyl.com/ytisf/theZoo)
+[![HitCount](http://hits.dwyl.com/systemisdown/Python.svg)](http://hits.dwyl.com/systemisdown/Python)
 [![GitHub stars](https://img.shields.io/github/stars/ytisf/theZoo.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ytisf/theZoo/stargazers/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
