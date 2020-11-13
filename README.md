@@ -36,7 +36,9 @@ Repozytorium zawiera:
 
 
 
+
 ### Zmiany w wersjach programów:
+
 ### Wersja v1.0:
 - [x] abc
 - [x] abc
