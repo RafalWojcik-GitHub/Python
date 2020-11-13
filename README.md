@@ -42,10 +42,8 @@ Repozytorium zawiera:
 
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/tree/main/Projekty"><b>Projekty</b></a> - Projekty.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/tree/main/Python Wprowadzenie"><b>Python Wprowadzenie</b></a> - Wprowadzenie.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/tree/main/Python Wprowadzenie"><b>Projekty dla Python Wprowadzenie</b></a> - Wprowadzenie.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/tree/main/Testowe"><b>Pliki testowe</b></a> - Wprowadzenie.<br>
 </p>
 
 
