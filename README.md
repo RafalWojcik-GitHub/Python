@@ -25,7 +25,7 @@ Uruchomić wybrany program:
 `python projekt1.py`
 
 
-### Struktura Repozytorium
+## Struktura Repozytorium
 Repozytorium zawiera:
 
 `/Projekty` - Projekty.
@@ -37,7 +37,7 @@ Repozytorium zawiera:
 
 
 
-### Zmiany w wersjach programów:
+## Zmiany w wersjach programów:
 
 ### Wersja v1.0:
 - [x] abc
