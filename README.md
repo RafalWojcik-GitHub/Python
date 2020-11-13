@@ -24,7 +24,7 @@ pip install --user -r requirements.txt
 
 Uruchomić wybrany program:
 
-`python projekt1.py`
+`python3 projekt1.py`
 
 
 ## Struktura Repozytorium
