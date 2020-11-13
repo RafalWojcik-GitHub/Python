@@ -12,7 +12,7 @@ Repozytorium plików Python.
 
 ## Pobranie Repozytorium
 
-Clone the repository with `git clone https://www.github.com/systemisdown/Python`. Go to the directory and run `pip install --user -r requirements.txt`. This should install all latest requirements needed:
+Skopiować `git clone https://www.github.com/systemisdown/Python`. Przejść do skopiowanego katalogu i doinstalować wymagane biblioteki `pip install --user -r requirements.txt`:
 
 ```bash
 git clone https://www.github.com/systemisdown/Python
@@ -20,7 +20,7 @@ cd Python
 pip install --user -r requirements.txt
 ```
 
-Start by running the console:
+Uruchomić wybrany program:
 
 `python projekt1.py`
 
@@ -35,6 +35,7 @@ Repozytorium zawiera:
 `/Testowe` -  Pliki testowe.  
 
 
+### Zmiany w wersjach programów:
 ### Wersja v1.0:
 - [x] abc
 - [x] abc
