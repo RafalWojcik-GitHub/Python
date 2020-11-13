@@ -33,14 +33,6 @@ Uruchomić wybrany program:
 
 ## Struktura Repozytorium
 Repozytorium zawiera:
-
-`/Projekty` - Projekty.
-
-`/Python Wprowadzenie` - Projekty dla Python Wprowadzenie
-
-`/Testowe` -  Pliki testowe.  
-
-
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/tree/main/Projekty"><b>Projekty</b></a> - Projekty.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/systemisdown/Python/tree/main/Python Wprowadzenie"><b>Projekty dla Python Wprowadzenie</b></a> - Wprowadzenie.<br>
