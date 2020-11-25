@@ -23,6 +23,7 @@ def kurs(nazwa_kurs_euro):
     # zwróć wynik
     return text
 
-
+# Do zmiennej cena przypisz wynik funkcji kurs()
 cena = kurs('euro')
+# Wyświetl zawartość zmiennej cena z dodatkowym tekstem
 print("Kurs waluty Euro wynosi: ",cena)
