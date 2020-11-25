@@ -1,6 +1,6 @@
 # Program wydobywa z kodu źródłowego HTML kurs euro - tzw. WEB Scraping
 
-# Polskie znaki
+# Zastosuj prawidłowe kodowanie polskich znaków
 # -*- coding: utf-8 -*-
 
 # Import potrzebnych bibliotek
