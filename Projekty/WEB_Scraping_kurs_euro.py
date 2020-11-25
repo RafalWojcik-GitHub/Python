@@ -3,10 +3,12 @@
 # Polskie znaki
 # -*- coding: utf-8 -*-
 
+# Import potrzebnych bibliotek
 from bs4 import BeautifulSoup
 import requests
 import time
 
+# Deklaracja funkcji
 def kurs(nazwa_kurs_euro):
     # Pobierz URL
     link = 'https://www.google.com/search?q='+nazwa_kurs_euro+'+euro' 
