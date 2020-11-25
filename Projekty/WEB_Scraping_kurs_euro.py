@@ -16,7 +16,7 @@ def kurs(nazwa_kurs_euro):
     pobierz_HTML = requests.get(link)    
     # Parser zczytuje kod źródłowy HTML z wynikiem zmiennej pobierz_HTML i przypisuje do zmiennej dane
     dane = BeautifulSoup(pobierz_HTML.text, 'html.parser')
-    # Opcjonalnie szybki podgląd kodu źródłowego HTML do przeszukania intersujących nasz informacjiz obkiektem <div class="BNeawe iBp4i AP7Wnd"> w którym znajduje się informacja o aktualnym kursie euro
+    # Opcjonalnie szybki podgląd kodu źródłowego HTML do przeszukania intersujących nasz informacji z obkiektem <div class="BNeawe iBp4i AP7Wnd"> w którym znajduje się informacja o aktualnym kursie euro
     # print (dane.prettify())
     # Znajdź w żródle strony element DIV z informacją o kursie
     text = dane.find('div', attrs={'class':'BNeawe iBp4i AP7Wnd'}).find('div', attrs={'class':'BNeawe iBp4i AP7Wnd'}).text
