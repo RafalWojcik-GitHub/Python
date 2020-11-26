@@ -26,7 +26,7 @@ def kurs(nazwa_kurs_euro):
 cena = kurs('euro')
 print("Kurs waluty Euro wynosi: ",cena)
 
-# Opcjonalna deklaracja funkcji zapętlonej w while sprawdzająca kurs euro w czasie rzeczywistym 
+# Opcjonalna deklaracja funkcji z zapętloną instrukcją while sprawdzającą kurs euro w czasie rzeczywistym 
 def sprawdzaj():
     #zmienna potrzebna do instrukcji warunkowej if
     ostatnia_cena = -1
