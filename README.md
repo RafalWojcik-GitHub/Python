@@ -1,8 +1,8 @@
 # Rafał Repozytorium GitHub
 
 ![](https://img.shields.io/badge/Autor-Rafał-blue)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/systemisdown/Python/issues)
-[![HitCount](http://hits.dwyl.com/RafalWojcik-GitHub/Python.svg)](http://hits.dwyl.com/systemisdown/Python)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=round)](https://github.com/RafalWojcik-GitHub/Python/issues)
+[![HitCount](http://hits.dwyl.com/RafalWojcik-GitHub/Python.svg)](http://hits.dwyl.com/RafalWojcik-GitHub/Python)
 [![GitHub stars](https://img.shields.io/github/stars/RafalWojcik-GitHub/Python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RafalWojcik-GitHub/Python/stargazers)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![](https://img.shields.io/badge/Python-2-blue)
