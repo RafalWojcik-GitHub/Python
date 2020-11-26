@@ -3,6 +3,7 @@
 # Polskie znaki
 # -*- coding: utf-8 -*-
 
+# Import potrzebnych bibliotek dla użytych funkcji w programie
 from bs4 import BeautifulSoup # dla funkcji BeautifulSoup()
 import requests # dla funkcji requests.get()    
 import time # dla funkcji time.sleep()
