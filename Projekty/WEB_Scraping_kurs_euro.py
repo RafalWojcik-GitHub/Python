@@ -9,7 +9,7 @@ import requests # dla funkcji requests.get()
 import time # dla funkcji time.sleep()
 
 def kurs(nazwa_kurs_euro):
-    # Pobierz URL
+    # Przypisz URL z zapytanie Google o kurs euro do zmiennej
     link = 'https://www.google.com/search?q='+nazwa_kurs_euro+'+euro' 
     # Utwórz zapytanie to strony
     pobierz_HTML = requests.get(link)    
