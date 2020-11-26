@@ -1,6 +1,6 @@
 # Program wydobywa z kodu źródłowego HTML kurs euro, tzw. WEB Scraping - autor Rafał W
 
-# Poprawne wyświetlanie polskich znaków dla napisu ,,złotych"
+# Poprawne wyświetlanie polskich znaków dla napisu ,,Złoty"
 # -*- coding: utf-8 -*-
 
 # Import potrzebnych bibliotek dla użytych funkcji w programie
