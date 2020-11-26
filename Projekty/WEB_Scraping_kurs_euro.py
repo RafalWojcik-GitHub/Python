@@ -1,29 +1,44 @@
-# Program wydobywa z kodu źródłowego HTML kurs euro jest to tzw. WEB Scraping - autor Rafał Wójcik
+# Program wydobywa z kodu źródłowego HTML kurs euro - tzw. WEB Scraping
 
-# Zastosuj prawidłowe kodowanie polskich znaków
+# Polskie znaki
 # -*- coding: utf-8 -*-
 
-# Import potrzebnych bibliotek
-from bs4 import BeautifulSoup
-import requests
-import time
+from bs4 import BeautifulSoup # dla funkcji BeautifulSoup()
+import requests # dla funkcji requests.get()    
+import time # dla funkcji time.sleep()
 
-# Deklaracja funkcji
 def kurs(nazwa_kurs_euro):
-    # Do zmiennej link przypisz potrzebny adres URL z zapytaniem Google o kurs euro
+    # Pobierz URL
     link = 'https://www.google.com/search?q='+nazwa_kurs_euro+'+euro' 
-    # Do zmiennej pobierz_HTML przypisz funkcję zapytania do wyszukiwarki Google
+    # Utwórz zapytanie to strony
     pobierz_HTML = requests.get(link)    
-    # Parser zczytuje kod źródłowy HTML z wynikiem zmiennej pobierz_HTML i przypisuje do zmiennej dane
+    # Parser HTML
     dane = BeautifulSoup(pobierz_HTML.text, 'html.parser')
-    # Opcjonalnie szybki podgląd kodu źródłowego HTML do przeszukania intersujących nasz informacji z obkiektem <div class="BNeawe iBp4i AP7Wnd"> w którym znajduje się informacja o aktualnym kursie euro
+    # Podgląd kodu źródłowego HTML do przeszukania <div class="BNeawe iBp4i AP7Wnd">
     # print (dane.prettify())
     # Znajdź w żródle strony element DIV z informacją o kursie
     text = dane.find('div', attrs={'class':'BNeawe iBp4i AP7Wnd'}).find('div', attrs={'class':'BNeawe iBp4i AP7Wnd'}).text
     # zwróć wynik
     return text
 
-# Do zmiennej cena przypisz wynik funkcji kurs()
+
 cena = kurs('euro')
-# Wyświetl zawartość zmiennej cena z dodatkowym tekstem
 print("Kurs waluty Euro wynosi: ",cena)
+
+# Opcjonalna deklaracja funkcji zapętlonej w while sprawdzająca kurs euro w czasie rzeczywistym 
+def sprawdzaj():
+    #zmienna potrzebna do instrukcji warunkowej if
+    ostatnia_cena = -1
+    # Zapętlenie działania programu
+    while True:
+        zmienna1 = 'euro'
+        cena = kurs(zmienna1)
+        # Warunek logiczny w instrukcji warunkowej if, jeśli cena euro nie jest równa -1 wtedy wyświetl komunikat ( warunek nigdy nie będzie spełniony)
+        if cena != ostatnia_cena:
+            print (zmienna1+' cena: ', cena )
+            ostatnia_cena = cena
+        # Funkcja wstrzymania działania programu na 3 sekundy
+        time.sleep(3)
+
+# Wywołanie wcześniej zadeklarowanej funkcji  
+sprawdzaj()
