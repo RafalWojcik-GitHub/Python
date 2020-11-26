@@ -14,7 +14,7 @@ def kurs(nazwa_kurs_euro):
     link = 'https://www.google.com/search?q='+nazwa_kurs_euro+'+euro' 
     # Utwórz zapytanie to strony
     pobierz_HTML = requests.get(link)    
-    # Parser HTML
+    # Parser przetwarzający kod HTML
     dane = BeautifulSoup(pobierz_HTML.text, 'html.parser')
     # Podgląd kodu źródłowego HTML do przeszukania <div class="BNeawe iBp4i AP7Wnd">
     # print (dane.prettify())
