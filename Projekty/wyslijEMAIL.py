@@ -6,7 +6,7 @@ nazwa_uzytkownika = 'adres@email_madawcy'
 haslo = 'haslo_do_skrzynki'
 
 nadawca = nazwa_uzytkownika
-odbiorca = ['adres@_email_odbiorcy']
+odbiorca = ['adres@email_odbiorcy']
 temat = 'Test'
 tresc = 'Wiadomosc testowa \n\n Ta wiadomosc zostala wygenerowana automatycznie. Prosze na nia nie odpowiadac \n\n'
 
